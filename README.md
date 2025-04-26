@@ -81,6 +81,5 @@ My first dive into the world of **IoT**!
 ---
 <div align="center">
   <h3>✨ Thank you for visiting my little corner of the tech universe! ✨</h3>
-  <h4>Let's connect and create magic together 🌸</h4>
 </div>
 <!--Profile README End -->
