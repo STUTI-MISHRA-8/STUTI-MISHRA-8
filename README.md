@@ -1,85 +1,95 @@
-<!--Profile README Start -->
+<!-- PROFILE README START -->
+
+<h1 align="center">
+  <a href="https://github.com/STUTI-MISHRA-8">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&pause=1500&color=FF69B4¢er=true&vCenter=true&width=600&height=100&lines=Hey+there!+I'm+Stuti+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</h1>
+<h3 align="center">
+  AI/ML & Data Science Developer + Aspiring Consultant Turning Real-Time AI into Real World Impact<br/>
+  Engineer. Analyst. Communicator.
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/stuti86" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://stutimishra.netlify.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:stuticodes86@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hi!-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://drive.google.com/file/d/1nOQh_gOeOdhg8CWhZM6YYikkTHaQzP0q/view?usp=sharing" target="_blank">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-View-brightgreen?style=for-the-badge&logo=google-drive" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-<h1 align="center">Hey there 🌸, I'm Stuti!</h1>
-<h3 align="center">AI Dreamer 💖 | ML Enthusiast 🧠 | IoT Explorer 📡 | Tech Lover 🚀</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/stuti86/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-pink?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/STUTI-MISHRA-8/STUTI-MISHRA-8/blob/main/Resume-Stuti.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-ff69b4?style=for-the-badge&logo=google-drive" />
-  </a>
-  <a href="mailto:stuticodes86@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-ffc0cb?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 💻 My Tech Playground
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FD8AA8?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FFB6C1?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-6495ED?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-FFC0CB?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-89CFF0?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FA8072?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-FEB6B8?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-
-## 🌸 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **About Me**
 
 ```python
-class AboutMe:
+class AboutStuti:
     def __init__(self):
-        self.name = ["Stuti Mishra"]
-        self.learning = ["AI", "Deep Learning", "IoT", "Fullstack Development"]
-        self.current_project = "TARA-Vision - AI-Powered Women Safety Surveillance"
-        self.interests = ["Building smart devices", "Creative technology", "Real-time AI"]
-        self.hobbies = ["Anchoring", "Event Management", "Building adorable projects 💖"]
-        self.goal = "To innovate, inspire, and make the world better through technology ✨"
+        self.name = "Stuti Mishra"
+        self.role = "AI/ML Developer"
+        self.focus = ["Real-Time AI", "Scalable Tech", "Edge AI"]
+        self.skills = ["Python", "Deep Learning", "Smart Systems"]
+        self.goal = "To innovate, inspire, and make the world better through technology"
 
-    def introduce(self):
-        print(f"Hi 👋, I'm Stuti ! Let's build something magical together!")
-        
-me = AboutMe()
-me.introduce()
+    def __str__(self):
+        return f"I'm {self.role} focused on {self.focus}. Let's build something amazing!"
+
+print(AboutSwayam())
 ```
----
 
-## 🌟 Projects That Light Me Up
+- 🔭 I’m currently working on [NeuroNest](https://github.com/PseudoSwayam/Cognitia)
 
-### 🚀 TARA-VISION:
-> **TARA-VISION** is my proud exploration into Smart Vision Systems using Deep Learning & Computer Vision!
+- 🌱 I’m currently learning **Deep Learning Architecture** & **Automation**
+  
+- 📊 Ex- AI/ML Intern @ National Aluminium Company Limited
 
-- 💡 Real-Time Women Safety 
-- 📸 Built with ResNet50 + YOLOv8 + TensorFlow
-- 💖 Mission: Create safer spaces for women everywhere
+- 📫 Reach me at **stuticodes86@gmail.com**
 
----
-
-### 📡 IoT Project: 
-> *Coming soon..*
-
-My first dive into the world of **IoT**!  
-- 🛠️ Built using **Microcontrollers, Sensors, Modules**.
-- 🌍 I love merging the physical world with intelligent systems!
----
+- 🥅 My goal: To build and deploy technology that creates a positive impact.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xUPGcgtKxm3bGJkQQU/giphy.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
----
+## **🛠 Technical Skills**
+
+### Programming Languages 
+[![My Programming Languages](https://skillicons.dev/icons?i=python,java,typescript,html,css)](https://skillicons.dev)
+
+### Artificial Intelligence/Machine Learning 
+[![My AI/ML Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
+
+### Databases 
+[![My Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+
+### BigData and Cloud Tools 
+[![My Cloud Tools](https://skillicons.dev/icons?i=azure,firebase)](https://skillicons.dev)
+
+### Fullstack Development Tools 
+[![My FullStack Development Tools](https://skillicons.dev/icons?i=react,spring,tailwindcss,flask)](https://skillicons.dev)
+
+### Others 
+[![My Other Tools](https://skillicons.dev/icons?i=arduino,git,docker)](https://skillicons.dev)
+
 <div align="center">
-  <h3>✨ Thank you for visiting my little corner of the tech universe! ✨</h3>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
-<!--Profile README End -->
+
+## **🎯 My Learning Goals Right Now:**
+
+```yaml
+- Expand ML & DL skills
+- Master Deep Computer Vision Architectures
+- Build Smart IoT Systems integrated with AI
+- Contribute to Open Source AI projects
+- Never stop exploring new technologies 
+```
