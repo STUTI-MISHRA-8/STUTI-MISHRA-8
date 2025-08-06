@@ -43,7 +43,7 @@ class AboutStuti:
     def __str__(self):
         return f"I'm {self.role} focused on {self.focus}. Let's build something amazing!"
 
-print(AboutSwayam())
+print(AboutStuti())
 ```
 
 - 🔭 I’m currently working on [NeuroNest](https://github.com/PseudoSwayam/Cognitia)
@@ -63,22 +63,13 @@ print(AboutSwayam())
 ## **🛠 Technical Skills**
 
 ### Programming Languages 
-[![My Programming Languages](https://skillicons.dev/icons?i=python,java,typescript,html,css)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### Artificial Intelligence/Machine Learning 
 [![My AI/ML Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
 
-### Databases 
-[![My Databases](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
-
-### BigData and Cloud Tools 
-[![My Cloud Tools](https://skillicons.dev/icons?i=azure,firebase)](https://skillicons.dev)
-
-### Fullstack Development Tools 
-[![My FullStack Development Tools](https://skillicons.dev/icons?i=react,spring,tailwindcss,flask)](https://skillicons.dev)
-
 ### Others 
-[![My Other Tools](https://skillicons.dev/icons?i=arduino,git,docker)](https://skillicons.dev)
+[![My Databases](https://skillicons.dev/icons?i=mysql,flask)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -87,9 +78,9 @@ print(AboutSwayam())
 ## **🎯 My Learning Goals Right Now:**
 
 ```yaml
-- Expand ML & DL skills
-- Master Deep Computer Vision Architectures
-- Build Smart IoT Systems integrated with AI
-- Contribute to Open Source AI projects
-- Never stop exploring new technologies 
+- Deepen my knowledge of AI and Deep Learning.
+- Master building Smart IoT Systems with AI integration.
+- Explore Fullstack Development to build end-to-end applications.
+- Contribute to open-source projects that align with my mission.
+- Never stop creating and innovating with technology. 
 ```
